@@ -16,7 +16,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   locales: {
     '/': {
       lang: 'tr-TR',
-      title: 'Classroom',
+      title: 'Programlama Dersliği',
       description: 'Programlama Dersliği',
 
       head: [
@@ -34,7 +34,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           ['meta', { property: 'og:title', content: 'Classroom' }],
           ['meta', { property: 'og:image', content: '/images/icon/purple.png' }],
           ['meta', { property: 'twitter:card', content: 'https://classroom.alaturka.dev/images/icon/purple.png' }],
-          ['meta', { property: 'og:description', content: 'Programla Dersliği' }],
+          ['meta', { property: 'og:description', content: 'Programlama Dersliği' }],
           ['meta', { property: 'og:locale', content: 'tr_TR' }],
           ['meta', { property: 'og:locale:alternate', content: 'en_US' }],
           ['meta', { property: 'og:width', content: '100'}],
@@ -42,8 +42,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Classroom',
-      description: 'Classroom Programming Environment',
+      title: 'Programming Classroom',
+      description: 'Programming Classroom',
 
       head: [
           ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
@@ -60,7 +60,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           ['meta', { property: 'og:title', content: 'Classroom' }],
           ['meta', { property: 'og:image', content: '/images/icon/purple.png' }],
           ['meta', { property: 'twitter:card', content: 'https://classroom.alaturka.dev/images/icon/purple.png' }],
-          ['meta', { property: 'og:description', content: 'Classroom Programming Environment' }],
+          ['meta', { property: 'og:description', content: 'Programming Classroom' }],
           ['meta', { property: 'og:locale', content: 'en_US' }],
           ['meta', { property: 'og:width', content: '100'}],
       ],
