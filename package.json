@@ -19,13 +19,13 @@
     "vuepress": "^2.0.0-beta.33"
   },
   "scripts": {
-    "build": "vuepress build srv",
-    "clean": "rimraf srv/.vuepress/.temp srv/.vuepress/.cache srv/.vuepress/dist",
-    "dev": "vuepress dev srv --clean-cache",
+    "build": "vuepress build doc",
+    "clean": "rimraf doc/.vuepress/.temp doc/.vuepress/.cache doc/.vuepress/dist",
+    "dev": "vuepress dev doc --clean-cache",
     "lint": "yarn npm-run-all \"lint:*\"",
-    "lint:code": "eslint --max-warnings 0 \"srv/.vuepress/**/*.ts\"",
-    "lint:markdown": "markdownlint \"srv/**/*.md\"",
-    "lint:style": "stylelint \"srv/.vuepress/**/*.scss\""
+    "lint:code": "eslint --max-warnings 0 \"doc/.vuepress/**/*.ts\"",
+    "lint:markdown": "markdownlint \"doc/**/*.md\"",
+    "lint:style": "stylelint \"doc/.vuepress/**/*.scss\""
   },
   "eslintConfig": {
     "env": {
