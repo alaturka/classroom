@@ -16,7 +16,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   locales: {
     '/': {
       lang: 'tr-TR',
-      title: 'Programlama Dersliği',
+      title: 'Derslik',
       description: 'Programlama Dersliği',
 
       head: [
@@ -42,7 +42,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Programming Classroom',
+      title: 'Classroom',
       description: 'Programming Classroom',
 
       head: [
