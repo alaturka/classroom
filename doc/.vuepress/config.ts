@@ -31,7 +31,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
 
           ['meta', { property: 'og:url', content: 'https://classroom.alaturka.dev/' }],
-          ['meta', { property: 'og:title', content: 'Classroom' }],
+          ['meta', { property: 'og:title', content: 'Derslik' }],
           ['meta', { property: 'og:image', content: '/images/icon/purple.png' }],
           ['meta', { property: 'twitter:card', content: 'https://classroom.alaturka.dev/images/icon/purple.png' }],
           ['meta', { property: 'og:description', content: 'Programlama Dersliği' }],
