@@ -77,7 +77,7 @@ bir [Terminal açarak](/todo) basitçe aşağıdaki komutu uygulamanız yeterli.
 classroom install
 ```
 
-## Sorun değil de kullanımla ilgili bir "sorum" var, ne yapmalıyım?
+## Sorun değil de kullanımla ilgili bir sorum var, ne yapmalıyım?
 
 Classroom ortamının kullanımıyla ilgili bir zorluk yaşamışsanız, yani yaşadığınız problemin Classroom ortamına ait bir
 hata olduğundan kuşkuluysanız [Tartışma forumuna](https://github.com/alaturka/classroom/discussions) yazın.
