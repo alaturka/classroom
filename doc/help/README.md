@@ -17,7 +17,7 @@ Classroom Ortamı hakkında genel sorular.
 Bu ortamın öncelikli amacı programlama deneyimi olmayan ve ağırlıklı olarak Windows kullandığını varsaydığımız yeni
 öğrencilerin kullanıma hazır ve sağlıklı bir ortamda programlama öğrenmeye başlamasını sağlamak.  Bu tanıma uymuyorsanız
 (WSL ve Linux deneyiminiz yeterliyse) neden olmasın?  Yalnız yapılanın "basitçe bir WSL kurulumu"nun ötesinde
-[özellikler](/guide/environment) taşıdığını not edin.  Uygulama Mağazasından kuracağınız dağıtımı (ki muhtemelen eski
+[özellikler](/intro/environment) taşıdığını not edin.  Uygulama Mağazasından kuracağınız dağıtımı (ki muhtemelen eski
 bir LTS sürümü olacak) düzgün şekilde provizyonlamayı unutmayın.
 
 ### Böyle Windows üzerinde uğraşmak yerine bilgisayarımıza doğrudan Linux kurup çalışsak?
@@ -60,7 +60,7 @@ Yaşadığınız sorunların bildirimi hakkında sorular.
 
 ### Kurulum hata verdi, ne yapmalıyım?
 
-[Kurulum sayfasında](/guide/install) da vurgulandığı gibi öncelikle ilgili adımı (gerekirse bir kaç kez) tekrar edin;
+[Kurulum sayfasında](/intro/install) da vurgulandığı gibi öncelikle ilgili adımı (gerekirse bir kaç kez) tekrar edin;
 geçici bir ağ veya kaynak sorunu yaşıyor olabilirsiniz.  Hata ısrarla devam ediyorsa sorunu [**önerdiğimiz biçimde**
 bildirin](#nas%C4%B1l-sorun-bildirmeliyim).  Bazı durumlarda kurulumu kaldırıp yeni baştan yapmak da sorunu çözebilir
 (bk. sonraki sorular), ama bunu yapmadan önce yine de sorunu bildirmenizde yarar var.
@@ -138,4 +138,4 @@ Bir [Terminal açın](#terminal-acmak-ne-demek-hangi-terminal) ve aşağıdaki k
 classroom install
 ```
 
-Güncelleme işleminin incelikleri hakkında [ilgili dokümanı](/guide/manager) okumayı unutmayın.
+Güncelleme işleminin incelikleri hakkında [ilgili dokümanı](/intro/manager) okumayı unutmayın.

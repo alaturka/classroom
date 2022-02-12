@@ -1,15 +1,24 @@
 import type { SidebarConfig } from '@vuepress/theme-default'
 
 export const en: SidebarConfig = {
+  '/intro/': [
+    {
+      text: 'Introduction',
+      children: [
+        '/intro/README.md',
+        '/intro/environment.md',
+        '/intro/install.md',
+        '/intro/manager.md',
+      ],
+    },
+  ],
   '/guide/': [
     {
       text: 'Guide',
       children: [
         '/guide/README.md',
-        '/guide/environment.md',
-        '/guide/install.md',
-        '/guide/manager.md',
-        '/guide/workflow.md',
+        '/guide/c.md',
+        '/guide/ruby.md',
       ],
     },
   ],

@@ -4,7 +4,7 @@ title: Derslik
 heroImage: /images/screenshot.svg
 actions:
   - text: Başlayın
-    link: /guide/
+    link: /intro/
     type: primary
 footer: GNU Genel Kamu Lisanslı | Copyright © 2022 Alaturka geliştiriciler
 ---
@@ -27,17 +27,17 @@ footer: GNU Genel Kamu Lisanslı | Copyright © 2022 Alaturka geliştiriciler
 
   <div class="feature">
     <h2>Kolay kurulum 🔰</h2>
-    <p>Gerekli tüm bileşenleri etkinleştiren iki adımlı tekrar edilebilir ("idempotent") <a href="/guide/environment/#özellikler">kurulum programı</a>.</p>
+    <p>Gerekli tüm bileşenleri etkinleştiren iki adımlı tekrar edilebilir ("idempotent") <a href="/intro/environment/#özellikler">kurulum programı</a>.</p>
   </div>
 
   <div class="feature">
     <h2>Zengin dil ve araç seti 🔨</h2>
-    <p>Windows tarafında VS Code ve eklentileri, Linux tarafında özenle <a href="/guide/environment/#özellikler">seçilmiş paketler</a>.</p>
+    <p>Windows tarafında VS Code ve eklentileri, Linux tarafında özenle <a href="/intro/environment/#özellikler">seçilmiş paketler</a>.</p>
   </div>
 
   <div class="feature">
     <h2>Güncellenebilir ortam ♻️ </h2>
-    <p>Windows tarafında <a href="https://scoop.sh">Scoop</a>, Linux tarafında <a href="https://help.ubuntu.com/community/AptGet/Howto">APT</a> kullanarak tüm ortam tek bir komutla <a href="/guide/environment#özellikler">güncellenebilmesi</a>.</p>
+    <p>Windows tarafında <a href="https://scoop.sh">Scoop</a>, Linux tarafında <a href="https://help.ubuntu.com/community/AptGet/Howto">APT</a> kullanarak tüm ortam tek bir komutla <a href="/intro/environment#özellikler">güncellenebilmesi</a>.</p>
   </div>
 </div>
 <!--

@@ -89,11 +89,11 @@ kullanacağınız Git **Windows tarafına kurulan** ve VS Code'da etkin olan Git
 
 - Öntanımlı olarak kurulan ve yapılandırılan programlama dilleri ve çalışma zamanı ortamları
 
-  * C (GCC ve TCC)
-
-  * Python (Python 3 ve Pip3 paket yöneticisi)
+  * C (GCC ve Clang/LLVM)
 
   * Ruby (Bundler hazır)
+  
+  * Python (Python 3 ve Pip3 paket yöneticisi)
 
   * Javascript (Node.js 17.x sürümü)
 
