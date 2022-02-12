@@ -4,7 +4,7 @@ Classroom ortamı hakkında sıkça sorulabilecek sorular ve cevapları.
 
 Sorular konusuna göre aşağıda gruplanmıştır.  Bu gruplar içinde dolaşabilir veya arama kutusuna soruyla ilgili bir kaç
 anahtar kelime yazarak arama yaptırabilirsiniz.  Cevabını aradığınız bir soruyu burada bulamıyorsanız lütfen [tartışma
-forumuna](https://github.com/alaturka/classroom./discussions) yazın.
+forumuna](https://github.com/alaturka/classroom/discussions) yazın.
 
 [[toc]]
 
@@ -92,7 +92,7 @@ classroom install
 ### Sorun değil de kullanımla ilgili bir "sorum" var, ne yapmalıyım?
 
 Classroom ortamının kullanımıyla ilgili bir zorluk yaşamışsanız, yani yaşadığınız problemin Classroom ortamına ait bir
-hata olduğundan kuşkuluysanız [Tartışma forumuna](https://github.com/alaturka/classroom./discussions) yazın.
+hata olduğundan kuşkuluysanız [Tartışma forumuna](https://github.com/alaturka/classroom/discussions) yazın.
 
 ## Classroom Yöneticisi
 
