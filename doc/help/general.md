@@ -25,13 +25,13 @@ dokümanındaki](/todo) talimatları izlemek.
 
 ## (Yasal olmayan kopyalarla) Windows üzerinde çalışmayı özendirmiyor musunuz?
 
-Hayır.  Bilakis öğrencilere yeterli deneyimi kazanır kazanmaz doğal bir Linux ortamına geçiş yapmalarını tavsiye
+Hayır.  Bilakis öğrencilere yeterli deneyim kazanır kazanmaz doğal bir Linux ortamına geçiş yapmalarını tavsiye
 ediyoruz.  Bu ortamı kullanırken de daima lisanslı bir Windows kopyasıyla çalışmalarını salık veriyoruz.
 
 ## Programlamayı öğrenmek için Windows zaten yeterli değil mi?  Sadece Windows kullansak?
 
 Maalesef hayır.  Windows son kullanıcı için kolay ve yaygın kullanılan bir masaüstü ortamı sunuyor olabilir.  Fakat
-birincil geliştirme ortamı olarak programcı dostu bir ortam sunduğunu söylemeyiz (ör. POSIX uyumsuzluğu, birinci sınıf
+birincil geliştirme ortamı olarak programcı dostu bir ortam sunduğunu söyleyemeyiz (ör. POSIX uyumsuzluğu, birinci sınıf
 bir terminal ortamının yokluğu, kısmî UTF-8 sorunları vs).
 
 ## Bu ortamda çalışmak için önerdiğiniz bir yol var mı?
