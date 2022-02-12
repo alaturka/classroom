@@ -1,4 +1,4 @@
-# Başlangıç
+# Özet
 
 ## İlk adımlar
 
@@ -12,21 +12,16 @@ Classroom çalışma ortamına başlangıç için sırasıyla aşağıdaki adım
 
 4. [Classroom yöneticisini tanıyın](./manager)
 
-## İş akışları
+## Kılavuz
 
 Programlamayı öğrenmenin tek veya en etkili yolu elinizi (koda) "bulaştırmak" yani bizzat programlama yapmaktır.
 Programlama alıştırmaları başta olmak üzere bu sürecin [Github Classroom](/refer/github) ile tümleştirilmiş şekilde
 hangi [İş Akışlarıyla](./guide) nasıl yürütüleceğini öğrenin.
 
-## İleri adımlar
+## Yardım
 
-Classroom çalışma ortamını etkin şekilde kullanabilmek için aşağıdaki bölümlerde sunulan dokümanları dikkatli şekilde
-okumanızı öneriyoruz.
+Karşılaşabileceğiniz yaygın sorunların çözümlerini bulabileceğiniz [yardım](/help) bölümünü inceleyin.
 
-### Yardım
+## Başvuru
 
-Karşılaşabileceğiniz yaygın sorunların çözümlerini bulabileceğiniz [Yardım](/help) bölümünü inceleyin.
-
-### Dokümanlar
-
-Programlama dersliğinde kullanacağınız araçlar hakkında hazırladığımız [Dokümanları](/refer) okuyun.
+Programlama dersliğinde kullanacağınız araçlar hakkında hazırladığımız [dokümanları](/refer) okuyun.
