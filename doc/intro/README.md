@@ -20,8 +20,13 @@ hangi [İş Akışlarıyla](./guide) nasıl yürütüleceğini öğrenin.
 
 ## Yardım
 
-Karşılaşabileceğiniz yaygın sorunların çözümlerini bulabileceğiniz [yardım](/help) bölümünü inceleyin.
+Karşılaşabileceğiniz yaygın sorunların çözümlerini soru/cevap biçiminde bulabileceğiniz [yardım](/help) bölümünü
+inceleyin.  Sorular konulara göre gruplanmıştır.  Bu gruplar içinde dolaşabilir veya arama kutusuna soruyla ilgili bir
+kaç anahtar kelime yazarak arama yaptırabilirsiniz.  Cevabını aradığınız bir soruyu burada bulamıyorsanız lütfen
+[tartışma forumuna](https://github.com/alaturka/classroom/discussions) yazın.
 
 ## Başvuru
 
-Programlama dersliğinde kullanacağınız araçlar hakkında hazırladığımız [dokümanları](/refer) okuyun.
+Programlama dersliğinde kullanacağınız araçlar hakkında hazırladığımız [başvuru dokümanlarını](/refer) okuyun.  İlgili
+araçtan hemen yararlanabilmeniz için gerekli asgari bilgileri içeren bu kısa dokümanları daha ayrıntılı bilgilere
+erişmeniz için bir başlangıç noktası olarak düşünebilirsiniz.

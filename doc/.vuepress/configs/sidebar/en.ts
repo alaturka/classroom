@@ -39,8 +39,8 @@ export const en: SidebarConfig = {
       collapsible: true,
       children: [
         '/help/general.md',
-        '/help/issues.md',
         '/help/manager.md',
+        '/help/assignment.md',
       ],
     },
   ],

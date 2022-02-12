@@ -37,7 +37,9 @@ export const tr: SidebarConfig = {
     {
       text: 'Yardım',
       children: [
-        '/help/README.md',
+        '/help/general.md',
+        '/help/manager.md',
+        '/help/assignment.md',
       ],
     },
   ],
