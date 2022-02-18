@@ -1,8 +1,9 @@
-/.../
 .cache
-dist
 .local/doc/todo/
 .local/tmp/
 .local/var/
-node_modules
 .temp
+/.../
+dist
+node_modules
+/src/
