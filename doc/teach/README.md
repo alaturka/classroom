@@ -35,13 +35,16 @@ akışının sağlıklı yürümesi açısından gereklidir.
    anlaşılır yazmak çok önemlidir.  Aksi halde öğrenciden çok fazla soru veya itiraz almanız kaçınılmazdır.  Bu konuya
    ayrıntılı şekilde değinilecektir.
 
-5. Ödevleri sadece İngilizce küçük harf, rakam ve tire karakterlerinden oluşan basit isimler olarak oluşturun.  Türkçe
+5. **Ödev deposunu "Template repository" olarak ayarlamayı unutmayın**.  Aksi halde sonraki adımlarda depodan
+   yararlanamazsınız.
+
+6. Ödevleri sadece İngilizce küçük harf, rakam ve tire karakterlerinden oluşan basit isimler olarak oluşturun.  Türkçe
    karakter ve boşluk karakterlerinden özellikle kaçının.  Büyük harf kullanılmasını da önermiyoruz.
 
-6. Github "autograding action"ında hali hazırda bulunan bir programlama hatasından dolayı test adlarında Türkçe karakter
+7. Github "autograding action"ında hali hazırda bulunan bir programlama hatasından dolayı test adlarında Türkçe karakter
    kesinlikle kullanmayın.  Boşluk veya noktalama işaretleri (en azından bir kısmını) kullanabilirsiniz.
 
-7. Otomatik değerlendirme testlerinde basit olarak aşağıda özetlenen 3 adımı kullanıyoruz.  Bu şemanın dışına
+8. Otomatik değerlendirme testlerinde basit olarak aşağıda özetlenen 3 adımı kullanıyoruz.  Bu şemanın dışına
    çıkabilirsiniz, fakat bu ödev değerlendirme karmaşıklığını arttırabileceğinden önermiyoruz.  Basit 3 adımlı
    değerlendirme Classroom çalışma ortamındaki betiklerle desteklenen "streamline" edilmiş bir yapı kurmaktadır.
 
