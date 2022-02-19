@@ -7,7 +7,9 @@
   --c-brand: var(--color-purple);
   --c-brand-light: var(--color-purple);
 
-  .page .theme-default-content p { text-align: justify; }
+  @media (min-width: 768px) {
+    .page .theme-default-content p { text-align: justify; }
+  }
 
   img.gif {
     width: 700px;
