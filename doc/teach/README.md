@@ -13,14 +13,14 @@ ekran izlemenizi öneririz.**)
 anlatılmıştır.  Ödevler verilmeye başlanmadan önce öğrencileri bu kılavuzu baştan sona okumaya yönlendirmek çalışma
 akışının sağlıklı yürümesi açısından gereklidir.
 
-### Kurallar ve Konvansyonlar
+### Konvansiyonlar
 
 Ödev hazırlarken Video'da düşülen notlarda da kısaca değinildiği gibi aşağıdaki hususlara özellikle dikkat edilmelidir.
 
 1. Tercih edilen uygulama olarak her ders için dersin aktif olduğu süre içinde geçerli olan ve sonrasında arşivlenen
    özel bir Github organizasyonu kullanılır.  Video'da örnek olarak `19` isimli "meta" organizasyon kullanılmıştır. Ödev
-   verilen ders için bu organizasyon değişecektir.  Aksi belirtilmediği sürece https://github.com/19 derslerde aktif
-   olarak ödev verilen bir organizasyon değildir.
+   verilen ders için bu organizasyon değişecektir.  Aksi belirtilmediği sürece
+   [https://github.com/19](https://github.com/19) derslerde aktif olarak ödev verilen bir organizasyon değildir.
 
 2. Her ders organizasyonunda adı konvansiyonel olarak `.` ile başlayan ve ödevlerde şablon olarak kullanılan depolar
    tanımlanabilir, ör. C programlama derslerinde `.c` şablon deposu.  Ödev sorularında eğer varsa ilgili programlama
@@ -35,18 +35,15 @@ akışının sağlıklı yürümesi açısından gereklidir.
    anlaşılır yazmak çok önemlidir.  Aksi halde öğrenciden çok fazla soru veya itiraz almanız kaçınılmazdır.  Bu konuya
    ayrıntılı şekilde değinilecektir.
 
-5. **Ödev deposunu "Template repository" olarak ayarlamayı unutmayın**.  Aksi halde sonraki adımlarda depodan
-   yararlanamazsınız.
-
-6. Ödevleri sadece İngilizce küçük harf, rakam ve tire karakterlerinden oluşan basit isimler olarak oluşturun.  Türkçe
+5. Ödevleri sadece İngilizce küçük harf, rakam ve tire karakterlerinden oluşan basit isimler olarak oluşturun.  Türkçe
    karakter ve boşluk karakterlerinden özellikle kaçının.  Büyük harf kullanılmasını da önermiyoruz.
 
-7. Github "autograding action"ında hali hazırda bulunan bir programlama hatasından dolayı test adlarında Türkçe karakter
+6. Github "autograding action"ında hali hazırda bulunan bir programlama hatasından dolayı test adlarında Türkçe karakter
    kesinlikle kullanmayın.  Boşluk veya noktalama işaretleri (en azından bir kısmını) kullanabilirsiniz.
 
-8. Otomatik değerlendirme testlerinde basit olarak aşağıda özetlenen 3 adımı kullanıyoruz.  Bu şemanın dışına
+7. Otomatik değerlendirme testlerinde basit olarak aşağıda özetlenen 3 adımı kullanıyoruz.  Bu şemanın dışına
    çıkabilirsiniz, fakat bu ödev değerlendirme karmaşıklığını arttırabileceğinden önermiyoruz.  Basit 3 adımlı
-   değerlendirme Classroom çalışma ortamındaki betiklerle desteklenen "streamline" edilmiş bir yapı kurmaktadır.
+   değerlendirme Classroom çalışma ortamındaki betiklerle desteklenen "streamline" edilmiş bir yapı sunmaktadır.
 
    - `Valid?`: Ödev tesliminin gerek şartları sağlayıp sağlamadığını test eden en temel adım, ör. C ödevlerinde teslim
      edilen kodun başarıyla derlenebilmesi.  Bu adımda aşağıdaki komutu kullanıyoruz ("run"):
@@ -75,6 +72,20 @@ akışının sağlıklı yürümesi açısından gereklidir.
      alanlarında belirtilebilmektedir.  Program girdisini ödevde öğrenciden kodlanması beklenen ana kaynak koda gömmek
      daha pratik olabilir.  Bu nedenle `output` alanı `input` alanına göre daha fazla kullanılır.
 
-9. Ödevler hakkında öğrencilerden gelen soru veya itirazları (bunlar özel iletilerle veya yüz yüze gelse bile) tüm
-   dersler için ortak kullanılan [tartışma forumuna](https://github.com/19/classroom/discussions) yönlendirin.  Özelden
-   soru cevaplamayın.  Aksi halde süreç yönetilebilir olmaktan çıkacaktır.
+### Uyarılar
+
+:::danger
+Ödev deposunu "Template repository" olarak ayarlamayı unutmayın.  Aksi halde sonraki adımlarda depodan
+yararlanamazsınız.
+:::
+
+:::danger
+Test adlarında Türkçe karakter kesinlikle kullanmayın.  Bu amaçla Türkçe yerine İngilizce adlar tercih edebilirsiniz,
+ör. `Geçerli mi?` yerine `Valid?`.  Boşluk veya noktalama işaretleri (en azından bir kısmını) kullanabilirsiniz.
+:::
+
+:::warning
+Ödevler hakkında öğrencilerden gelen soru veya itirazları (bunlar özel iletilerle veya yüz yüze gelse bile) tüm dersler
+için ortak kullanılan [ödev tartışma forumuna](https://github.com/19/classroom/discussions/categories/%C3%B6dev)
+yönlendirin.  Özelden soru cevaplamayın. Aksi halde süreç yönetilebilir olmaktan çıkacaktır.
+:::

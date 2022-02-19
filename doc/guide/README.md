@@ -13,11 +13,13 @@ kullanabilirsiniz.
 
 ## Ödevler
 
+::: tip
+Ödevler üzerinde çalışırken karşılaşabileceğiniz olası sorunların çözümünü [Sıkça Sorulan Sorular](/help/assignment)
+sayfalarında bulabilirsiniz.  **Bu sayfaları mutlaka okuyun.**
+:::
+
 Classroom çalışma ortamı Github Classroom üzerinden sunulabilecek programlama ödevleri üzerinde kişisel bilgisayarınızda
-çalışmak için çok uygun araçlar sunar.  Github Classroom üzerinden sunulan bir programlama ödevi üzerinde nasıl
-çalışabilirsiniz?  Aşağıdaki kısa video bu soruyu cevaplamaktadır.  (**Tam ekran izlemenizi öneririz.**)
+çalışmak için uygun araçlar sunar.  Github Classroom üzerinden sunulan bir programlama ödevi üzerinde nasıl
+çalışacağınız aşağıdaki kısa videoda örneklenerek anlatılmıştır.  (**Tam ekran izlemenizi öneririz.**)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c9cLaZeF2AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Ödevler üzerinde çalışırken karşılaşabileceğiniz sorunlar için ilgili yardım sayfalarını
-[inceleyebilirsiniz](/help/assignment)
