@@ -74,3 +74,7 @@ akışının sağlıklı yürümesi açısından gereklidir.
      Bu adımda diğer adımlardan farklı olarak programın standart girdi ve çıktısı sırasıyla `input` ve `output`
      alanlarında belirtilebilmektedir.  Program girdisini ödevde öğrenciden kodlanması beklenen ana kaynak koda gömmek
      daha pratik olabilir.  Bu nedenle `output` alanı `input` alanına göre daha fazla kullanılır.
+
+9. Ödevler hakkında öğrencilerden gelen soru veya itirazları (bunlar özel iletilerle veya yüz yüze gelse bile) tüm
+   dersler için ortak kullanılan [tartışma forumuna](https://github.com/19/classroom/discussions) yönlendirin.  Özelden
+   soru cevaplamayın.  Aksi halde süreç yönetilebilir olmaktan çıkacaktır.
