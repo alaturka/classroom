@@ -5,7 +5,7 @@ Classroom ortamında öğrenmede iş akışları.
 ```txt
 The only way to learn a new programming language is by writing programs in it.
 
-	-- Dennis Ritchie
+        -- Dennis Ritchie
 ```
 
 Çalışma akışlarında programlama diline özgü farklılıklar olabilir.  Dile özgü açıklamalar için kenar çubuğundaki listeyi
