@@ -6,7 +6,6 @@ Vagrant.configure('2') do |config|
   config.vm.guest = :windows
 
   config.vm.provider 'virtualbox' do |virtualbox|
-    virtualbox.customize ['modifyvm', :id, '--recording',         'on'                              ]
     virtualbox.customize ['modifyvm', :id, '--recordingvideores', '1920x1080'                       ]
     virtualbox.customize ['modifyvm', :id, '--recordingvideorate', '1620'                           ]
     virtualbox.customize ['modifyvm', :id, '--recordingfile',     './src/screencasts/classroom.webm']
@@ -17,3 +16,5 @@ Vagrant.configure('2') do |config|
     virtualbox.customize ['modifyvm', :id, '--audiocontroller', 'hda'  ]
   end
 end
+
+# vim: ft=ruby
