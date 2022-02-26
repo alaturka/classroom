@@ -12,8 +12,9 @@ Kurulum için sorunsuz bir ağ bağlantısı ve Powershell (sürüm 5) kurulu g�
 11) bir sistem gerekir. Lütfen önce bu koşulları sağladığınıza emin olun.
 
 ::: danger
-Kurulum boyunca 2 GB'a varan veri indirileceğinden yavaş bir ağ bağlantısına sahipseniz kurulum uzun sürecektir.  Her
-adımda sabırla beklemelisiniz.
+Tüm kurulumun olağan bir ağ bağlantısıyla bilgisayarınızın durumunuza bağlı olarak **yaklaşık yarım saat** sürmesini
+bekleyebilirsiniz. Kurulum boyunca bir kaç GB'a varan veri indirileceğinden yavaş bir ağ bağlantısına sahipseniz bu süre
+çok daha uzayabilir.
 :::
 
 ::: tip
@@ -28,7 +29,7 @@ src="/images/powershell.gif"/></span></a> aşağıdaki kodu kopyala/yapıştır 
 
 ```powershell
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser -Force;
-iwr -useb https://get.alaturka.dev/classroom | iex
+iwr -useb https://get.classroom.alaturka.dev/classroom | iex
 ```
 
 ::: danger
