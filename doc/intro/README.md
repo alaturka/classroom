@@ -1,5 +1,10 @@
 # Özet
 
+::: tip
+Kurulum öncesinde Classroom ortamını bu dokümanla başlayarak genel olarak tanımanız yararlı olacaktır.  Bu bilgilere
+zaten sahipseniz bir an önce kurulum adımına geçmek için lütfen [tıklayın](./install).
+:::
+
 ## İlk adımlar
 
 Classroom çalışma ortamına başlangıç için sırasıyla aşağıdaki adımları atmanızı öneriyoruz.
