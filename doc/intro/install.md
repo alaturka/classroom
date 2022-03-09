@@ -33,14 +33,15 @@ iwr -useb https://get.classroom.alaturka.dev/classroom | iex
 ```
 
 ::: danger
-Bu aşama başarıyla sonuçlandığında bilgisayarı yeniden başlatma onayı istenecektir.  Bir sonraki aşamaya geçmeden önce
-onay vererek **mutlaka bilgisayarınızı yeniden başlatın**.
+Bu aşamada sorun yaşıyorsanız (gerekiyorsa farklı zamanlarda, farklı ağ ortamlarında bir kaç kez) **işlemi tekrar etmeyi
+deneyin**.  Lütfen hata iletilerine bakarak eksik veya hatalı bir uygulamayı kurmaya çalışmayın.  Bu aşamanın hatasız
+tamamlanması zorunludur.  Aksi halde bir sonraki aşamaya geçmeyin.  Hata hala devam ediyorsa ekran görüntüsü alarak
+[sorunu bildirin](https://github.com/alaturka/windows/issues/new?template=bug.yml)
 :::
 
 ::: warning
-Bu aşamada sorun yaşıyorsanız önce **işlemi tekrar etmeyi deneyin**, sorun hala devam ediyorsa ekran görüntüsü alarak
-[sorunu bildirin](https://github.com/alaturka/windows/issues/new?template=bug.yml).  Bu aşamanın hatasız tamamlanması
-zorunludur.  Aksi halde bir sonraki aşamaya geçmeyin.
+Bu aşama başarıyla sonuçlandığında bilgisayarı yeniden başlatma onayı istenecektir.  Bir sonraki aşamaya geçmeden önce
+onay vererek **mutlaka bilgisayarınızı yeniden başlatın**.
 :::
 
 ## İkinci Aşama: Kurulum
