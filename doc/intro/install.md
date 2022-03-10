@@ -22,6 +22,19 @@ Kurulum öncesinde arka planda gerçekleşen otomatik Windows güncellemelerinin
 güncellemeleri kurulum sürecini çok yavaşlatabilir.
 :::
 
+## Kısıtlamalar
+
+Komut satırında kullanılan bazı programların (ör. Scoop) hata üretmesinden dolayı Windows ev klasörü adının, dolayısıyla
+Windows kullanıcı adının, ASCII olmayan karakterler (ör. `ığüşöçİĞÜŞÖÇ` gibi Türkçe karakterler) **içermemesi**
+gerekiyor.  Örneğin Windows kurulumunda seçtiğiniz kullanıcı adı `Adem Öztürk` ise bu isim `C:\Users\Adem Öztürk` ev
+klasörü adı üreteceğinden geçerli bir isim olmayacaktır.  Böyle bir sisteme sahipseniz önerimiz geçerli bir kullanıcı
+adıyla yeni bir Windows kurulumu yapmaktır.
+
+::: tip
+Github hesap adları daima geçerli olduğundan Windows kullanıcı adını Github hesap adıyla eş yapmanızı öneririz.  Sorun
+çıkarmamakla beraber kullanıcı adlarında boşluk karakteri kullanmamanızı da öneriyoruz.
+:::
+
 ## Birinci Aşama: Önyükleme
 
 "Powershell Terminali"ni <a class="popup" href="#">yönetici izniyle açarak<span><img class="gif" alt="powershell"
