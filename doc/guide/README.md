@@ -90,6 +90,7 @@ Bu yöntemi sık kullanacaksınız aşağıdaki düzenlemeleri yapmanızı öner
   ln -s /mnt/c/Users/vagrant/github-classroom windows
   cd windows
   ```
+
 :::
 
 ## Github Classroom ödevleri üzerinde çalışma
