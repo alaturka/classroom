@@ -37,7 +37,7 @@ footer: GNU Genel Kamu Lisanslı | Copyright © 2022 Alaturka geliştiriciler
 
   <div class="feature">
     <h2>Güncellenebilir ortam ♻️ </h2>
-    <p>Windows tarafında <a href="https://scoop.sh">Scoop</a>, Linux tarafında <a href="https://help.ubuntu.com/community/AptGet/Howto">APT</a> kullanarak tüm ortam tek bir komutla <a href="/intro/environment#özellikler">güncellenebilmesi</a>.</p>
+    <p>Windows tarafında <a href="https://scoop.sh">Scoop</a>, Linux tarafında <a href="https://help.ubuntu.com/community/AptGet/Howto">APT</a> kullanarak tüm ortamın tek bir komutla <a href="/intro/environment#özellikler">güncellenebilmesi</a>.</p>
   </div>
 </div>
 <!--
