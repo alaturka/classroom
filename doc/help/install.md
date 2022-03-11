@@ -28,7 +28,7 @@ Birinci aşama kurulumda (farketmediğiniz) bir sorun yaşanmış olabilir.
 
 - [Bu aşamayı tekrar etmeyi deneyin](/intro/install.html#birinci-asama-onyukleme)
 
-- Sorun hala devam ediyorsa [birinci aşama kurulumu sıfırdan yapın](#birinci-asama-kurulumu-sifirdan-nasil-tekrar-edebilirim)
+- Sorun hala devam ediyorsa [birinci aşama kurulumu sıfırdan yapın](#birinci-asama-kurulumu-s%C4%B1f%C4%B1rdan-nas%C4%B1l-tekrar-edebilirim)
 
 ## Birinci aşama kurulumda aşağıdakine benzer bir hata alıyorum?
 
