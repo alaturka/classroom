@@ -1,4 +1,4 @@
-# Genel konular
+# Genel Konular
 
 Classroom Ortamı hakkında genel sorular.
 

@@ -1,4 +1,4 @@
-# Classroom Yöneticisi
+# Classroom Kurulumu
 
 Kurulum hakkında sorular.
 
