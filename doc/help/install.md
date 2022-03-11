@@ -44,5 +44,5 @@ Ağ bağlantınızda bir sorun var.  Nedenleri ve çözümleri şunlar olabilir:
 
 - Geçici bir ağ kesintisi yaşıyorsunuz.  Aynı makinede ağ sorunu olmadığına emin olduğunuz bir anda tekrar deneyin.
 
-- Bulunduğunuz ağ ortamında etkin olan güvenlik duvarı veya diğer kısıtlamalardan dolayı kurulum komutuyla dışarı çıkan
-  ağ trafiği engelleniyor.  Bir başka ağ otamında kurulumu deneyin.
+- Bulunduğunuz ağ ortamında etkin olan güvenlik duvarı veya diğer kısıtlamalardan dolayı kurulum komutuyla gerçekleşen
+  ağ trafiği engelleniyor.  Bir başka ağ ortamında kurulumu deneyin.
