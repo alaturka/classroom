@@ -17,8 +17,6 @@ export const tr: SidebarConfig = {
       text: 'Kılavuz',
       children: [
         '/guide/README.md',
-        '/guide/c.md',
-        '/guide/ruby.md',
       ],
     },
   ],
@@ -40,7 +38,6 @@ export const tr: SidebarConfig = {
         '/help/general.md',
         '/help/install.md',
         '/help/manager.md',
-        '/help/assignment.md',
       ],
     },
   ],

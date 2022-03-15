@@ -1,3 +1,0 @@
-# Ruby geliştirme ortamı
-
-TODO

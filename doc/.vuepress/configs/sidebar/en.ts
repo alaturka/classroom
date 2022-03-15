@@ -17,8 +17,6 @@ export const en: SidebarConfig = {
       text: 'Guide',
       children: [
         '/guide/README.md',
-        '/guide/c.md',
-        '/guide/ruby.md',
       ],
     },
   ],
@@ -41,7 +39,6 @@ export const en: SidebarConfig = {
         '/help/general.md',
         '/help/install.md',
         '/help/manager.md',
-        '/help/assignment.md',
       ],
     },
   ],

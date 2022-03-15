@@ -1,3 +1,0 @@
-# C geliştirme ortamı
-
-TODO
