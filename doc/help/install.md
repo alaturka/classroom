@@ -52,7 +52,7 @@ Ağ bağlantınızda bir sorun var.  Olası nedenleri ve çözümleri şunlar ol
 ## Önerilen tüm çözüm yöntemlerini denedim, fakat kurulum bir türlü başarılı olmuyor?
 
 Büyük bir olasılıkla Windows kurulumunuzda bir sorun var.  İlk kurulumu çok eski bir tarihte yapılmış Windows sistemleri
-zaman içinde sorunlu ve hantal bir hale gelebiliyor.  Özellikle sistem ayararıyla sık sık oynadığınız veya farklı
+zaman içinde sorunlu ve hantal bir hale gelebiliyor.  Özellikle sistem ayarlarıyla sık sık oynadığınız veya farklı
 kaynaklardan çeşitli programlar kurduğunuz sistemlerde bu sorunların ortaya çıkma ihtimali daha da yüksek.
 
 Son çare olarak bilgisayarınıza güncel sürümlü yeni bir sistem kurulumu yapın ve sonrasında Classroom kurulumunu
