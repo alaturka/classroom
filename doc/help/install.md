@@ -40,9 +40,20 @@ iwr: Temel alınan bağlantı kapatıldı: Gönderme işleminde beklenmeyen hata
     + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
 ```
 
-Ağ bağlantınızda bir sorun var.  Nedenleri ve çözümleri şunlar olabilir:
+Ağ bağlantınızda bir sorun var.  Olası nedenleri ve çözümleri şunlar olabilir:
 
 - Geçici bir ağ kesintisi yaşıyorsunuz.  Aynı makinede ağ sorunu olmadığına emin olduğunuz bir anda tekrar deneyin.
 
 - Bulunduğunuz ağ ortamında etkin olan güvenlik duvarı veya diğer kısıtlamalardan dolayı kurulum komutuyla gerçekleşen
   ağ trafiği engelleniyor.  Bir başka ağ ortamında kurulumu deneyin.
+
+- Sisteminizde bir sorun var.  Yeni bir Windows kurulumu deneyebilirsiniz.
+
+## Önerilen tüm çözüm yöntemlerini denedim, fakat kurulum bir türlü başarılı olmuyor?
+
+Büyük bir olasılıkla Windows kurulumunuzda bir sorun var.  İlk kurulumu çok eski bir tarihte yapılmış Windows sistemleri
+zaman içinde sorunlu ve hantal bir hale gelebiliyor.  Özellikle sistem ayararıyla sık sık oynadığınız veya farklı
+kaynaklardan çeşitli programlar kurduğunuz sistemlerde bu sorunların ortaya çıkma ihtimali daha da yüksek.
+
+Son çare olarak bilgisayarınıza güncel sürümlü yeni bir sistem kurulumu yapın ve sonrasında Classroom kurulumunu
+(sağlıklı ağ koşullarına sahip bir ortamda) yeniden deneyin.
