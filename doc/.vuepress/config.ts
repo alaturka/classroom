@@ -10,7 +10,12 @@ export default defineUserConfig<DefaultThemeOptions>({
   },
 
   plugins: [
-    "@snippetors/vuepress-plugin-code-copy"
+    [
+      "@snippetors/vuepress-plugin-code-copy"
+    ],
+    [
+      '@vuepress/plugin-google-analytics', { 'id': 'G-WWJPH0JCMS' }
+    ]
   ],
 
   locales: {
