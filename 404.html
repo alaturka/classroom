@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.36">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" type="image/png" href="/favicon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="manifest" href="/site.webmanifest"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><meta name="theme-color" content="#ffffff"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="msapplication-TileColor" content="#9f00a7"><meta property="og:url" content="https://classroom.alaturka.dev/"><meta property="og:title" content="Derslik"><meta property="og:image" content="/images/icon/purple.png"><meta property="twitter:card" content="https://classroom.alaturka.dev/images/icon/purple.png"><meta property="og:description" content="Programlama Dersliği"><meta property="og:locale" content="tr_TR"><meta property="og:locale:alternate" content="en_US"><meta property="og:width" content="100"><title>Derslik</title><meta name="description" content="Programlama Dersliği">
+    <link rel="modulepreload" href="/assets/app.b3c28002.js"><link rel="modulepreload" href="/assets/404.html.9c2f5b6b.js"><link rel="modulepreload" href="/assets/404.html.e7308cf0.js">
+    <link rel="stylesheet" href="/assets/style.f20e4d64.css">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><div class="theme-default-content"><h1>404</h1><blockquote>How did we get here?</blockquote><a href="/" class="">Take me home</a></div></div><!----><!--]--></div>
+    <script type="module" src="/assets/app.b3c28002.js" defer></script>
+  </body>
+</html>

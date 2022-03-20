@@ -1,0 +1,1 @@
+const t={key:"v-0415d7a2",path:"/refer/git.html",title:"Git",lang:"tr-TR",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1644350987e3,contributors:[{name:"Recai Okta\u015F",email:"roktas@gmail.com",commits:3}]},filePathRelative:"refer/git.md"};export{t as data};

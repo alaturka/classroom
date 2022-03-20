@@ -1,0 +1,1 @@
+import{_ as e,o,c,b as s,e as t}from"./app.b3c28002.js";const a={},r={id:"scoop",tabindex:"-1"},_=s("a",{class:"header-anchor",href:"#scoop","aria-hidden":"true"},"#",-1),n=t(" Scoop"),d=[_,n];function h(i,p){return o(),c("h1",r,d)}var l=e(a,[["render",h]]);export{l as default};
